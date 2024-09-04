@@ -1,6 +1,6 @@
-This repository is a test code for beginner Julia.
-# Reference: Julia Programming for Operations Research, 2e, Changhyun Kwon.
-# Three commercial software packages are required for the deployment of this package,
+# This repository is a test code for beginner Julia.
+Reference: Julia Programming for Operations Research, 2e, Changhyun Kwon.
+Three commercial software packages are required for the deployment of this package,
 1) Gurobi,
 2) CPLEX
 3) GLPK
