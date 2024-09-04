@@ -7,4 +7,5 @@ Three commercial software packages are required for the deployment of this packa
 3) GLPK
 
 Note: GLPK is an open source solver for GNU mixed-integer linear programming problems.
+
       Gurobi and CPLEX are two commercial LP and MILP solvers that are free for academic users.
